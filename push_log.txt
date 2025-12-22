@@ -1,0 +1,79 @@
+remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Google OAuth Client ID ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:57        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: server/.env.production:18        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Dharanish99/Prompt_Studio/security/secret-scanning/unblock-secret/37Cz4XtEjlz3WVNiUaCBOSAxXbR        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Google OAuth Client Secret ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:58        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: server/.env.production:19        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Dharanish99/Prompt_Studio/security/secret-scanning/unblock-secret/37Cz4TLyRTc3tY2BG4LPw1Ar27R        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Groq API Key ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:63        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:64        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: server/.env.production:30        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: server/.env.production:31        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Dharanish99/Prompt_Studio/security/secret-scanning/unblock-secret/37Cz4QvSH0WCgNTWXdT36uYI9vj        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Groq API Key ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:65        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: server/.env.production:32        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Dharanish99/Prompt_Studio/security/secret-scanning/unblock-secret/37Cz4Vh0vsBXsOoFzQRp3bn8kVf        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Groq API Key ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:        
+remote:          - commit: 0d47374d5275020eb0a869c28d7cdde85fc14675        
+remote:            path: RENDER_DEPLOYMENT_GUIDE.md:66        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Dharanish99/Prompt_Studio/security/secret-scanning/unblock-secret/37Cz4R92gVBZ2pV6Ol4LG7vwUto        
+remote:             
+remote:             
+remote:     ΓÇöΓÇö[ WARNING ]ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:      2 more secrets detected. Remove each secret from your commit history to view more detections.        
+remote:      https://docs.github.com/code-security/secret-scanning/using-advanced-secret-scanning-and-push-protection-features/excluding-folders-and-files-from-secret-scanning        
+remote:     ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote: 
+remote: 
+To https://github.com/Dharanish99/Prompt_Studio.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/Dharanish99/Prompt_Studio.git'
