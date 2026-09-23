@@ -27,7 +27,7 @@ This guide walks you through deploying the **Prompt Enhancer** project "in one p
     - Go to **Network Access** > **Add IP Address**.
     - Select **Allow Access From Anywhere** (`0.0.0.0/0`) (Required for Render).
 3.  **Database Access**: Ensure you have a database user (e.g., `superadmin`) with read/write privileges.
-4.  **Connection String**: Get your URI: `mongodb+srv://<username>:<password>@cluster0...`
+4.  **Connection String**: Get your URI: `<MongoDB Atlas credential redacted; provide MONGO_URI through environment configuration>`
 
 ---
 
