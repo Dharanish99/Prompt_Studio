@@ -25,7 +25,7 @@ This guide walks you through deploying the **Prompt Enhancer** project "in one p
 1.  Ensure your Cluster is running.
 2.  **Network Access**: Allow access from running services.
     - Go to **Network Access** > **Add IP Address**.
-    - Select **Allow Access From Anywhere** (`0.0.0.0/0`) (Required for Render).
+    - Allow only the smallest outbound CIDR ranges required by the deployed Render service. Copy the service's ranges from Render's **Connect > Outbound** panel ([Render outbound IP guidance](https://render.com/docs/outbound-ip-addresses)); use private networking where available. Do not use `0.0.0.0/0` for an internet-accessible database. See [Atlas network security guidance](https://www.mongodb.com/docs/atlas/architecture/current/network-security/).
 3.  **Database Access**: Ensure you have a database user (e.g., `superadmin`) with read/write privileges.
 4.  **Connection String**: Get your URI: `<MongoDB Atlas credential redacted; provide MONGO_URI through environment configuration>`
 
